@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Seu projeto no Railway",
   "private": true,
-  "main": "seu-projeto/server.js",  
+  "main": "server.js",  
   "scripts": {
-    "start": "node seu-projeto/server.js",  
+    "start": "node server.js",  
     "client": "react-scripts start",  
     "build": "react-scripts build",
     "test": "react-scripts test",
